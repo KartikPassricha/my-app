@@ -11,7 +11,7 @@ function Projects() {
       link: "https://github.com/yourusername/portfolio"
     },
     {
-      title: "Socket Programming Application",
+      title: "Nexus Bot",
       description:
         "Built a client-server communication system using Python sockets. Implemented data transmission, acknowledgment handling, and real-time message exchange between systems.",
       tech: "Python, Networking, TCP/IP",
