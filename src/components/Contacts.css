@@ -27,3 +27,15 @@
   margin-bottom: 15px;
   color: #cbd5e1;
 }
+
+.contact-card a {
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+.contact-card a:hover {
+  color: white;
+  text-decoration: underline;
+}

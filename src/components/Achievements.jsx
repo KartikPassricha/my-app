@@ -4,19 +4,19 @@ function Achievements() {
 
   const achievementsList = [
     {
-      title: "Solved 300+ DSA Problems",
+      title: "Solved 150+ DSA Problems",
       description:
-        "Solved over 300 problems across platforms like LeetCode and CodeStudio. Focused on arrays, recursion, dynamic programming, graphs, and advanced data structures. Improved problem-solving speed and optimized solutions."
+        "Solved over 150 problems on LeetCode . Focused on arrays, recursion, dynamic programming and advanced data structures. Improved problem-solving speed and optimized solutions."
     },
     {
-      title: "Strong Academic Performance",
+      title: "Strong Frontend Development ",
       description:
-        "Maintained consistent academic performance with strong fundamentals in algorithms, operating systems, and networking. Regularly ranked among top performers in coursework."
+        "Strengthened frontend development expertise through hands-on projects using React and modern JavaScript. Implemented component-driven architecture, dynamic rendering and responsive layouts with performance optimization in mind."
     },
     {
       title: "Built Multiple Projects",
       description:
-        "Developed full-stack and frontend applications including a portfolio website, socket programming system, and DSA tracker. Focused on clean UI and structured architecture."
+        "Developed full-stack and frontend applications including a portfolio website, Discord API bot along with its invite website and implementation of ML. Focused on clean UI and structured architecture."
     }
   ];
 

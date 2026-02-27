@@ -10,6 +10,7 @@
   margin-top: 30px;
 }
 
+
 .skill-item {
   position: relative;
 }
@@ -52,3 +53,14 @@
   opacity: 1;
   pointer-events: auto;
 } 
+
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  justify-content: center;
+  gap: 20px;
+}
+
+.skills-list > :nth-child(6) {
+  grid-column: 3;
+}

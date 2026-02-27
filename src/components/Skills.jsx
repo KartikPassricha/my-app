@@ -5,7 +5,7 @@ function Skills() {
   const skills = [
     {
       name: "React",
-      details: "1 year experience. Built portfolio, reusable components, dynamic rendering using map(), hooks like useEffect."
+      details: "1 year experience. Built portfolio, reusable components, dynamic rendering using map() and many more."
     },
     {
       name: "JavaScript",
@@ -13,11 +13,19 @@ function Skills() {
     },
     {
       name: "C++",
-      details: "Solved 300+ DSA problems. Strong grasp of STL, recursion, trees, graphs, and dynamic programming."
+      details: "Solved 150+ DSA problems. Strong grasp of STL, recursion, strings , and dynamic programming."
     },
     {
       name: "Git & GitHub",
       details: "Version control, branching, merging, pull requests, and deployment workflows."
+    },
+    {
+      name: "Discord API",
+      details: "Designed and deployed a Discord bot leveraging the Discord API via discord.py, implementing asynchronous event handling, command processing, and server automation features."
+    },
+    {
+      name: "AI/ML",
+      details: "Implemented probabilistic text generation using Markov chains with Python's Markovify library. Built a dynamic Truth & Dare Discord bot capable of generating context-aware prompts."
     }
   ];
 

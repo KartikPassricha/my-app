@@ -12,9 +12,34 @@ function Contact() {
           platforms below.
         </p>
 
-        <p><strong>Email:</strong> kartik@example.com</p>
-        <p><strong>GitHub:</strong> github.com/yourusername</p>
-        <p><strong>LinkedIn:</strong> linkedin.com/in/yourusername</p>
+        <p>
+          <strong>Email:</strong>{" "}
+          <a href="mailto:kartikpassricha1312@gmail.com">
+            kartikpassricha1312@gmail.com
+          </a>
+        </p>
+
+        <p>
+          <strong>GitHub:</strong>{" "}
+          <a
+            href="https://github.com/KartikPassricha"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://github.com/KartikPassricha
+          </a>
+        </p>
+
+        <p>
+          <strong>LinkedIn:</strong>{" "}
+          <a
+            href="https://www.linkedin.com/in/kartik-passricha-97b200293/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://www.linkedin.com/in/kartik-passricha-97b200293/
+          </a>
+        </p>
       </div>
     </section>
   );
