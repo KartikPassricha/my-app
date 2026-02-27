@@ -3,7 +3,7 @@ import "./Navbar.css";
 function Navbar() {
 
   const handleScroll = (e, id) => {
-    e.preventDefault(); // 🔥 prevents #contact from appearing
+    e.preventDefault(); 
 
     const section = document.getElementById(id);
     section.scrollIntoView({ behavior: "smooth" });
