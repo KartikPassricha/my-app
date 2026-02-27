@@ -1,0 +1,29 @@
+.contact {
+  text-align: center;
+}
+
+.contact-card {
+  width: 80%;
+  margin: 40px auto;
+  background: #1e293b;
+  padding: 40px;
+  border-radius: 15px;
+  text-align: left;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+  transition: 0.3s ease;
+}
+
+.contact-card:hover {
+  transform: translateY(-6px);
+}
+
+.contact-card h2 {
+  color: #38bdf8;
+  margin-bottom: 20px;
+}
+
+.contact-card p {
+  line-height: 1.7;
+  margin-bottom: 15px;
+  color: #cbd5e1;
+}

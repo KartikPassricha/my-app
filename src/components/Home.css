@@ -1,0 +1,19 @@
+.home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  text-align: center;
+}
+
+.home h1 {
+  font-size: 55px;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
+
+.home p {
+  font-size: 22px;
+  color: #94a3b8;
+}
