@@ -74,11 +74,10 @@
     grid-template-columns: repeat(2, auto);
     gap: 15px;
   }
+  @media (max-width: 768px) {
   .skill-details {
-    position: static;
-    opacity: 1;
-    pointer-events: auto;
-    margin-top: 10px;
+    display: none !important;
   }
+}
 
 }
