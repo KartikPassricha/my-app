@@ -68,3 +68,17 @@
 .skill-details {
   z-index: 10;
 }
+@media (max-width: 768px) {
+
+  .skills-list {
+    grid-template-columns: repeat(2, auto);
+    gap: 15px;
+  }
+  .skill-details {
+    position: static;
+    opacity: 1;
+    pointer-events: auto;
+    margin-top: 10px;
+  }
+
+}

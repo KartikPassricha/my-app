@@ -29,3 +29,24 @@
 .nav-links a:hover {
   color: #38bdf8;
 }
+@media (max-width: 768px) {
+
+  .navbar {
+    flex-direction: column;
+    padding: 15px 20px;
+  }
+
+  .nav-links {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .nav-links span,
+  .nav-links a {
+    margin: 0;
+    font-size: 14px;
+  }
+} 

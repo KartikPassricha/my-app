@@ -39,3 +39,15 @@
   color: white;
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+
+  .about-card,
+  .project-card,
+  .contact-card,
+  .achievement-card {
+    width: 95%;
+    padding: 25px;
+  }
+
+}

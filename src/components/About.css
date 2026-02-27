@@ -27,3 +27,15 @@
   margin-bottom: 15px;
   color: #cbd5e1;
 }
+
+@media (max-width: 768px) {
+
+  .about-card,
+  .project-card,
+  .contact-card,
+  .achievement-card {
+    width: 95%;
+    padding: 25px;
+  }
+
+}
