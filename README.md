@@ -61,8 +61,9 @@ Implemented probabilistic text generation using **Markov chain models** with Pyt
 
 ---
 
-## Project Structure
+## 🏗 Project Structure
 
+```text
 portfolio/
 │
 ├── public/
@@ -91,6 +92,7 @@ portfolio/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## 📦 Installation & Setup
 
