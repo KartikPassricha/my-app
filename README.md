@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fully responsive personal portfolio website built using **React.js**, showcasing my projects, technical skills, achievements, and contact information in a clean, modern interface.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This project was designed and developed to present my technical profile in a structured and professional format. The application follows a component-based architecture and emphasizes clean UI/UX design, responsive layouts, and modular CSS styling.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The portfolio highlights my experience in frontend development, applied AI/ML experimentation, and backend-integrated bot development.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend:** React.js
+- **Styling:** CSS3 (Modular CSS)
+- **Version Control:** Git & GitHub
+- **APIs Used:** Discord API, YouTube API
+- **AI/ML Library:** Markovify (Markov Chain-based text generation)
+- **Deployment:** (Vercel / Netlify / GitHub Pages)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Fully responsive (Mobile + Desktop)
+- Clean dark-themed UI
+- Reusable component-based architecture
+- Smooth scroll navigation
+- Interactive skills section with hover-based descriptions (desktop)
+- Resume PDF integration
+- External linking (GitHub, LinkedIn, Email)
+- Structured and maintainable CSS organization
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Highlighted Projects
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Discord Bot (Moderation + Games + Music)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Designed and developed a multi-functional Discord bot featuring moderation utilities, interactive games such as Truth & Dare, and music streaming capabilities.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Integrated **Discord API (discord.py)** for real-time event handling and command processing
+- Implemented moderation tools and role-based access control
+- Integrated **YouTube API** for dynamic media retrieval and music playback
+- Utilized asynchronous event-driven programming in Python
+- Designed modular and scalable architecture
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+### AI/ML Text Generation Bot
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Implemented probabilistic text generation using **Markov chain models** with Python’s **Markovify** library.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Developed a Truth & Dare Discord bot
+- Generated dynamic, context-aware prompts
+- Applied stochastic language modeling techniques
+- Integrated ML logic into real-time Discord interactions
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Project Structure
