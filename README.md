@@ -15,11 +15,11 @@ The portfolio highlights my experience in frontend development, applied AI/ML ex
 ## Tech Stack
 
 - **Frontend:** React.js
-- **Styling:** CSS3 (Modular CSS)
+- **Styling:** CSS3 
 - **Version Control:** Git & GitHub
 - **APIs Used:** Discord API, YouTube API
 - **AI/ML Library:** Markovify (Markov Chain-based text generation)
-- **Deployment:** (Vercel / Netlify / GitHub Pages)
+- **Deployment:** Vercel
 
 ---
 
@@ -62,3 +62,40 @@ Implemented probabilistic text generation using **Markov chain models** with Pyt
 ---
 
 ## Project Structure
+
+portfolio/
+│
+├── public/
+│   ├── index.html
+│   └── resume.pdf
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Navbar.css
+│   │   ├── About.jsx
+│   │   ├── About.css
+│   │   ├── Achievements.jsx
+│   │   ├── Achievements.css
+│   │   ├── Skills.jsx
+│   │   ├── Skills.css
+│   │   ├── Projects.jsx
+│   │   ├── Projects.css
+│   │   ├── Contact.jsx
+│   │   └── Contact.css
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+├── package.json
+├── package-lock.json
+└── README.md
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
